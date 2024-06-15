@@ -29,8 +29,12 @@ Para melhorar o entendimento de um sistema de programação, é preciso de uma i
 - Fazer as botões e caixas de texto interativeis
   
 # Sistemas
-- 
+Sistemas de códigos no geral, como cadastrar pessoas e salvar os cadastros num arquivo
+
 # WebSite
-
-
- 
+Fazer um website:
+- Fazer um passo a passo do que o site vai fazer
+- Usar uma biblioteca para criar site
+- Ir criando o passo a passo do site
+- Colocando título, caixa de texto, botões
+- Fazer com que os usuarios possam interagir entre si
