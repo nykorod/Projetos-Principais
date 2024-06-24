@@ -14,6 +14,13 @@
   - Automação de processos que seriam realizados manualmente.
   - Implementação de scripts para automação de tarefas específicas.
 
+## Banco de Dados
+- **Objetivo:** Criar e consultar um banco de dados de forma simples e eficiente.
+- **Passos:**
+  - Fazer um banco de dados
+  - Inserir informações no banco de dados.
+  - Criar consultas para facilitar o acesso informação do banco de dados.
+
 ## Inteligência Artificial
 - **Objetivo:** Treinar IA para análise preditiva e insights a partir dos dados.
 - **Passos:**
